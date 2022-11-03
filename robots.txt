@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://amrith.am.github.io/sitemap/sitemap-index.xml
+Host: https://amrith.am.github.io
